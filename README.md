@@ -14,8 +14,8 @@
 -->
 🌱
 
-이름 : 황석주
-이메일 : tjrwn1121@gmail.com
+이름 : 황석주  
+이메일 : tjrwn1121@gmail.com  
 관심 분야 : NLP, Data Analysis
 
 ## 언어능력 및 컴퓨터 활용
